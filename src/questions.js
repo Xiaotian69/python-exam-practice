@@ -143,3 +143,37 @@ export function buildStudyGuide(question) {
     points: points.length ? points : [guideForConcept("syntax")],
   };
 }
+
+export function getExpandableSections(question) {
+  const hintCount = question.hints?.length ?? 0;
+  return [
+    {
+      id: "study",
+      label: "学习",
+      title: "考点雷达",
+      summary: "本题相关知识点",
+      defaultOpen: true,
+    },
+    {
+      id: "hints",
+      label: "提示",
+      title: "提示舱",
+      summary: hintCount > 0 ? `${hintCount} 条提示，按需展开` : "暂无提示",
+      defaultOpen: false,
+    },
+    {
+      id: "answer",
+      label: "答案",
+      title: "参考答案",
+      summary: "确认后查看参考答案",
+      defaultOpen: false,
+    },
+    {
+      id: "source",
+      label: "来源",
+      title: "来源信息",
+      summary: "原卷与校验信息",
+      defaultOpen: false,
+    },
+  ];
+}

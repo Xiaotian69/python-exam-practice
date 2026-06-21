@@ -92,12 +92,14 @@
               <p id="questionStem" class="question-stem"></p>
               <div id="conceptTags" class="tag-row"></div>
 
-              <section id="studyPanel" class="study-panel">
-                <div class="section-label">学习</div>
-                <h3 id="studyHeading">考点先过一遍</h3>
-                <p id="studyCue" class="study-cue"></p>
+              <details id="studyPanel" class="disclosure study-panel" open>
+                <summary>
+                  <span class="section-label" id="studyLabel">学习</span>
+                  <strong id="studyHeading">考点先过一遍</strong>
+                  <small id="studyCue" class="study-cue"></small>
+                </summary>
                 <div id="studyPoints" class="study-points"></div>
-              </section>
+              </details>
 
               <section id="theorySection" class="theory-section" hidden>
                 <div class="section-label">作答</div>
@@ -122,21 +124,33 @@
                 <button class="status-button" type="button" data-mark="redo">再做一次</button>
               </div>
 
-              <section class="hint-section">
-                <h3>提示</h3>
+              <details id="hintPanel" class="disclosure hint-section">
+                <summary>
+                  <span class="section-label" id="hintLabel">提示</span>
+                  <strong id="hintHeading">按需展开</strong>
+                  <small id="hintSummary"></small>
+                </summary>
                 <div id="hintList" class="hint-list"></div>
-              </section>
+              </details>
 
-              <section class="answer-section">
+              <details id="answerPanel" class="disclosure answer-section">
+                <summary>
+                  <span class="section-label" id="answerLabel">答案</span>
+                  <strong id="answerHeading">参考答案</strong>
+                  <small id="answerSummary">确认后查看</small>
+                </summary>
                 <div class="answer-header">
-                  <h3>参考答案</h3>
                   <button id="revealAnswer" class="secondary-button" type="button">确认后查看</button>
                 </div>
                 <pre id="answerBlock" class="answer-block" hidden></pre>
-              </section>
+              </details>
 
-              <details class="source-details">
-                <summary>来源信息</summary>
+              <details id="sourcePanel" class="disclosure source-details">
+                <summary>
+                  <span class="section-label" id="sourceLabel">来源</span>
+                  <strong id="sourceHeading">来源信息</strong>
+                  <small id="sourceSummary">原卷与校验信息</small>
+                </summary>
                 <div id="sourceInfo"></div>
               </details>
             </article>

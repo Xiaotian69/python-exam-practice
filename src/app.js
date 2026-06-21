@@ -4,6 +4,7 @@ import {
   checkBlankAnswers,
   collectConcepts,
   filterQuestions,
+  getExpandableSections,
   getQuestionById,
   summarizeProgress,
 } from "./questions.js";
@@ -42,6 +43,8 @@ const els = {
   questionTitle: document.querySelector("#questionTitle"),
   questionStem: document.querySelector("#questionStem"),
   conceptTags: document.querySelector("#conceptTags"),
+  studyPanel: document.querySelector("#studyPanel"),
+  studyLabel: document.querySelector("#studyLabel"),
   studyHeading: document.querySelector("#studyHeading"),
   studyCue: document.querySelector("#studyCue"),
   studyPoints: document.querySelector("#studyPoints"),
@@ -52,9 +55,21 @@ const els = {
   blankInputs: document.querySelector("#blankInputs"),
   checkBlanks: document.querySelector("#checkBlanks"),
   blankFeedback: document.querySelector("#blankFeedback"),
+  hintPanel: document.querySelector("#hintPanel"),
+  hintLabel: document.querySelector("#hintLabel"),
+  hintHeading: document.querySelector("#hintHeading"),
+  hintSummary: document.querySelector("#hintSummary"),
   hintList: document.querySelector("#hintList"),
+  answerPanel: document.querySelector("#answerPanel"),
+  answerLabel: document.querySelector("#answerLabel"),
+  answerHeading: document.querySelector("#answerHeading"),
+  answerSummary: document.querySelector("#answerSummary"),
   revealAnswer: document.querySelector("#revealAnswer"),
   answerBlock: document.querySelector("#answerBlock"),
+  sourcePanel: document.querySelector("#sourcePanel"),
+  sourceLabel: document.querySelector("#sourceLabel"),
+  sourceHeading: document.querySelector("#sourceHeading"),
+  sourceSummary: document.querySelector("#sourceSummary"),
   sourceInfo: document.querySelector("#sourceInfo"),
   codeEditor: document.querySelector("#codeEditor"),
   codePanel: document.querySelector("#codePanel"),
@@ -158,23 +173,74 @@ function renderQuestionList() {
   }
 }
 
+function syncDisclosure(element, questionId, defaultOpen) {
+  if (element.dataset.questionId !== questionId) {
+    element.open = defaultOpen;
+    element.dataset.questionId = questionId;
+  }
+}
+
+function renderExpandableSections(question, answerOpened) {
+  const sections = Object.fromEntries(getExpandableSections(question).map((section) => [section.id, section]));
+  const bindings = {
+    study: {
+      panel: els.studyPanel,
+      label: els.studyLabel,
+      heading: els.studyHeading,
+      summary: els.studyCue,
+    },
+    hints: {
+      panel: els.hintPanel,
+      label: els.hintLabel,
+      heading: els.hintHeading,
+      summary: els.hintSummary,
+    },
+    answer: {
+      panel: els.answerPanel,
+      label: els.answerLabel,
+      heading: els.answerHeading,
+      summary: els.answerSummary,
+    },
+    source: {
+      panel: els.sourcePanel,
+      label: els.sourceLabel,
+      heading: els.sourceHeading,
+      summary: els.sourceSummary,
+    },
+  };
+
+  for (const [id, binding] of Object.entries(bindings)) {
+    const section = sections[id];
+    if (!section) continue;
+    binding.label.textContent = section.label;
+    binding.heading.textContent = section.title;
+    binding.summary.textContent = id === "answer" && answerOpened ? "答案已显示" : section.summary;
+    syncDisclosure(binding.panel, question.id, section.defaultOpen);
+  }
+
+  if (answerOpened) {
+    els.answerPanel.open = true;
+  }
+}
+
 function renderHints(question, entry) {
   els.hintList.replaceChildren();
   question.hints.forEach((hint, index) => {
     const opened = entry.hintsOpened?.includes(index);
-    const card = document.createElement("div");
-    card.className = "hint-card";
-    const button = document.createElement("button");
-    button.type = "button";
-    button.innerHTML = `<span>提示 ${index + 1}</span><span>${opened ? "已展开" : "点击展开"}</span>`;
+    const card = document.createElement("details");
+    card.className = "hint-disclosure";
+    card.open = Boolean(opened);
+    const summary = document.createElement("summary");
+    summary.innerHTML = `<strong>提示 ${index + 1}</strong><span>${opened ? "已展开" : "点击展开"}</span>`;
     const body = document.createElement("p");
     body.textContent = hint;
-    body.hidden = !opened;
-    button.addEventListener("click", () => {
-      progressStore.recordHintOpen(question.id, index);
-      render();
+    card.addEventListener("toggle", () => {
+      if (card.open) {
+        progressStore.recordHintOpen(question.id, index);
+        render();
+      }
     });
-    card.append(button, body);
+    card.append(summary, body);
     els.hintList.append(card);
   });
 }
@@ -308,13 +374,15 @@ function renderQuestion() {
     els.runSummary.textContent = "未运行";
   }
 
+  const answerOpened = Boolean(entry.answerOpened);
+
   renderStatusButtons(question, entry);
+  renderExpandableSections(question, answerOpened);
   renderStudyGuide(question);
   renderTheory(question, entry);
   renderFillBlank(question);
   renderHints(question, entry);
 
-  const answerOpened = Boolean(entry.answerOpened);
   els.answerBlock.hidden = !answerOpened;
   els.answerBlock.textContent = answerOpened ? question.answer : "";
   els.revealAnswer.textContent = answerOpened ? "答案已显示" : "确认后查看";
