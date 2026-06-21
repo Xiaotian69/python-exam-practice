@@ -1,0 +1,173 @@
+{
+  "archive": "python历年真题(1).zip",
+  "sources": [
+    {
+      "id": "src-01-2025-python-i-1",
+      "path": "python历年真题/2025级python I 题型及分值分布-1.docx",
+      "displayName": "2025级python I 题型及分值分布-1.docx",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "score_distribution",
+      "size": 18814,
+      "sha256": "02958370f132b80b016aace431de00e2eae86e3a7a341481486544617da9476b",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-02-2025-python-ii-2",
+      "path": "python历年真题/2025级python II题型及分值分布-2.docx",
+      "displayName": "2025级python II题型及分值分布-2.docx",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "score_distribution",
+      "size": 18937,
+      "sha256": "d81940ff7606307f646eb28e5b5ae43b550dc97de0512e833adc211eef0d3290",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-03-2023-python-i-b",
+      "path": "python历年真题/python1/2023年《程序设计Python  I》评分参照(B卷)（修订）.pdf",
+      "displayName": "2023年《程序设计Python  I》评分参照(B卷)（修订）.pdf",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "scoring_reference",
+      "size": 239970,
+      "sha256": "3f17104aa788a129ebfb4602d1f1341dae13a45af57e060449913ab0d756a68a",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-04-2024-python-i-a",
+      "path": "python历年真题/python1/2024年《程序设计python  I》评分参照(A卷).pdf",
+      "displayName": "2024年《程序设计python  I》评分参照(A卷).pdf",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "scoring_reference",
+      "size": 241519,
+      "sha256": "6cc712718cea329c63409efb8f3ccce88c76ace97c40396eb553ca4e7a31e063",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-05-2025-python-i-b",
+      "path": "python历年真题/python1/2025年《程序设计python  I》评分参照(B卷).pdf",
+      "displayName": "2025年《程序设计python  I》评分参照(B卷).pdf",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "scoring_reference",
+      "size": 184269,
+      "sha256": "ccd312a765db7d75a35ef23fe38e118ec773fc5f20b81e547c8b5669c127208c",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-06-2023-2024-python-i-a",
+      "path": "python历年真题/python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A .pdf",
+      "displayName": "2023-2024学年第二学期《程序设计(Python) I》试题A .pdf",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "size": 264980,
+      "sha256": "32c9ce57873afd8c187c97d3ddcbe01c68adb89bca080ab98099be82a61f580d",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-07-2023-python-i-b",
+      "path": "python历年真题/python1/试卷/2023年《程序设计Python  I》B卷（修订）.pdf",
+      "displayName": "2023年《程序设计Python  I》B卷（修订）.pdf",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "size": 207525,
+      "sha256": "95341ec1f4751142d895a1492fbdd15984dfe6cf22c0bbb14aba78a7b5429fe2",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-08-2024-2025-python-i-b",
+      "path": "python历年真题/python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B.pdf",
+      "displayName": "2024-2025学年第二学期《程序设计(Python) I》试题B.pdf",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "size": 238124,
+      "sha256": "681533f2806578e9aca2b7d2c0f8610eb2c94a961dc629520f82515efe0e7ee8",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-09-2023-python",
+      "path": "python历年真题/python2/2023春python答案.pdf",
+      "displayName": "2023春python答案.pdf",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "scoring_reference",
+      "size": 192292,
+      "sha256": "6a21a9795283ea82c5ff6cbe9b0d9eb043370fbe6891e5fda363d594843ea44a",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-10-2024-python-ii-a",
+      "path": "python历年真题/python2/2024年《程序设计python  II》评分参照(A卷).pdf",
+      "displayName": "2024年《程序设计python  II》评分参照(A卷).pdf",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "scoring_reference",
+      "size": 240588,
+      "sha256": "a85684aea0fa9469e2f475054ffdf3c15b59c38a324dbff7a6d91edc8c766895",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-11-2025-python-ii-a",
+      "path": "python历年真题/python2/2025年《程序设计python  II》评分参照(A卷).pdf",
+      "displayName": "2025年《程序设计python  II》评分参照(A卷).pdf",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "scoring_reference",
+      "size": 187962,
+      "sha256": "3889d5fc3ca0035021d148183ea302bff83d5bb4e01c0562ca05e16bfe08f54f",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-12-2023-2024-python-ii-a",
+      "path": "python历年真题/python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A.pdf",
+      "displayName": "2023-2024学年第二学期《程序设计(Python) II》试题A.pdf",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "size": 267508,
+      "sha256": "50e6afc799f97ae0de77b1419e508a8b5dfe0906c11647d20b6b8a50c0cd36ec",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-13-2023-python-ii-a",
+      "path": "python历年真题/python2/试卷/2023年《程序设计Python II》A卷.pdf",
+      "displayName": "2023年《程序设计Python II》A卷.pdf",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "size": 215979,
+      "sha256": "03f66365014ab1a40df1a6bb294b8ed6a01d1283e87698ea5c15a5f63176d262",
+      "duplicateOf": null,
+      "aliases": []
+    },
+    {
+      "id": "src-14-2024-2025-python-ii-a",
+      "path": "python历年真题/python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A.pdf",
+      "displayName": "2024-2025学年第二学期《程序设计(Python) II》试题A.pdf",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "size": 258323,
+      "sha256": "4715b54886a1a4a917e5afc5fa04f7b9af0255aca9764ffd12d57a8737a29f3c",
+      "duplicateOf": null,
+      "aliases": []
+    }
+  ]
+}

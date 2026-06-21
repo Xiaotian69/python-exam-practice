@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Python 真题冲刺练习</title>
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">考前刷题</p>
+          <h1>Python 真题复习</h1>
+        </div>
+        <div class="topbar__status">
+          <span id="runtimeStatus" class="runtime-pill">Python 未加载</span>
+          <span id="progressSummary" class="summary-pill">0/0 已掌握</span>
+        </div>
+      </header>
+
+      <main class="layout">
+        <aside class="sidebar" aria-label="题目筛选">
+          <section class="panel">
+            <div class="panel__header">
+              <h2>筛选</h2>
+              <button id="resetFilters" class="icon-button" type="button" title="重置筛选">↺</button>
+            </div>
+            <label>
+              课程
+              <select id="courseFilter">
+                <option value="all">全部</option>
+                <option value="python1">Python I</option>
+                <option value="python2">Python II</option>
+              </select>
+            </label>
+            <label>
+              知识点
+              <select id="conceptFilter">
+                <option value="all">全部</option>
+              </select>
+            </label>
+            <label>
+              难度
+              <select id="difficultyFilter">
+                <option value="all">全部</option>
+                <option value="beginner">零基础</option>
+                <option value="foundation">基础巩固</option>
+                <option value="exam">真题冲刺</option>
+              </select>
+            </label>
+            <label>
+              题型
+              <select id="modeFilter">
+                <option value="all">全部</option>
+                <option value="code">代码练习</option>
+                <option value="theory">理论题</option>
+                <option value="fill_blank">填空题</option>
+              </select>
+            </label>
+            <label>
+              状态
+              <select id="statusFilter">
+                <option value="all">全部</option>
+                <option value="new">未做</option>
+                <option value="mastered">已掌握</option>
+                <option value="uncertain">不确定</option>
+                <option value="redo">再做一次</option>
+              </select>
+            </label>
+            <label>
+              搜索
+              <input id="searchInput" type="search" placeholder="题目、知识点">
+            </label>
+          </section>
+
+          <section class="panel question-list-panel">
+            <div class="panel__header">
+              <h2>题目</h2>
+              <span id="questionCount" class="count-pill">0</span>
+            </div>
+            <div id="questionList" class="question-list"></div>
+          </section>
+        </aside>
+
+        <section class="workspace" aria-live="polite">
+          <div class="workspace__main">
+            <article class="question-panel">
+              <div class="question-meta" id="questionMeta"></div>
+              <h2 id="questionTitle">加载中...</h2>
+              <p id="questionStem" class="question-stem"></p>
+              <div id="conceptTags" class="tag-row"></div>
+
+              <section id="studyPanel" class="study-panel">
+                <div class="section-label">学习</div>
+                <h3 id="studyHeading">考点先过一遍</h3>
+                <p id="studyCue" class="study-cue"></p>
+                <div id="studyPoints" class="study-points"></div>
+              </section>
+
+              <section id="theorySection" class="theory-section" hidden>
+                <div class="section-label">作答</div>
+                <h3>选择答案</h3>
+                <div id="theoryOptions" class="theory-options"></div>
+                <p id="theoryFeedback" class="theory-feedback"></p>
+              </section>
+
+              <section id="fillBlankSection" class="fill-blank-section" hidden>
+                <div class="section-label">作答</div>
+                <h3>填写答案</h3>
+                <div id="blankInputs" class="blank-inputs"></div>
+                <div class="fill-blank-actions">
+                  <button id="checkBlanks" class="secondary-button" type="button">核对填空</button>
+                  <p id="blankFeedback" class="theory-feedback"></p>
+                </div>
+              </section>
+
+              <div class="actions-row">
+                <button class="status-button" type="button" data-mark="mastered">已掌握</button>
+                <button class="status-button" type="button" data-mark="uncertain">不确定</button>
+                <button class="status-button" type="button" data-mark="redo">再做一次</button>
+              </div>
+
+              <section class="hint-section">
+                <h3>提示</h3>
+                <div id="hintList" class="hint-list"></div>
+              </section>
+
+              <section class="answer-section">
+                <div class="answer-header">
+                  <h3>参考答案</h3>
+                  <button id="revealAnswer" class="secondary-button" type="button">确认后查看</button>
+                </div>
+                <pre id="answerBlock" class="answer-block" hidden></pre>
+              </section>
+
+              <details class="source-details">
+                <summary>来源信息</summary>
+                <div id="sourceInfo"></div>
+              </details>
+            </article>
+
+            <article id="codePanel" class="code-panel">
+              <div class="code-toolbar">
+                <div>
+                  <h2>代码作答</h2>
+                  <p>自己写，运行后看测试结果；不会时再点提示。</p>
+                </div>
+                <button id="resetCode" class="secondary-button" type="button">恢复初始代码</button>
+              </div>
+              <textarea id="codeEditor" spellcheck="false" aria-label="Python 代码编辑器"></textarea>
+              <div class="input-row">
+                <label>
+                  自定义输入
+                  <textarea id="customInput" rows="3" spellcheck="false" placeholder="可选：自己输入一组数据手动运行"></textarea>
+                </label>
+              </div>
+              <div class="runbar">
+                <button id="runCode" class="primary-button" type="button">运行测试</button>
+                <button id="runCustom" class="secondary-button" type="button">只跑自定义输入</button>
+              </div>
+            </article>
+          </div>
+
+          <article class="results-panel">
+            <div class="panel__header">
+              <h2>反馈</h2>
+              <span id="runSummary" class="count-pill">未运行</span>
+            </div>
+            <div id="resultsList" class="results-list">
+              <p class="empty-state">写好代码后点击运行。隐藏测试只显示通过数量，不直接泄题。</p>
+            </div>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <div id="confirmDialog" class="dialog-backdrop" hidden>
+      <div class="dialog" role="dialog" aria-modal="true" aria-labelledby="dialogTitle">
+        <h2 id="dialogTitle">确定查看参考答案？</h2>
+        <p>这会记录一次“看过答案”。考前冲刺最好先至少运行一次自己的代码。</p>
+        <div class="dialog__actions">
+          <button id="cancelReveal" class="secondary-button" type="button">先不看</button>
+          <button id="confirmReveal" class="primary-button" type="button">查看答案</button>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>

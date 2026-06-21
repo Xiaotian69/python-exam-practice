@@ -1,0 +1,5192 @@
+{
+  "questions": [
+    {
+      "id": "exam-python1-2023-single_choice-01",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 1 题",
+      "stem": "不属于 Python 语言特点的选项是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "简单易学"
+        },
+        {
+          "id": "B",
+          "text": "执行效率高"
+        },
+        {
+          "id": "C",
+          "text": "高可移植性"
+        },
+        {
+          "id": "D",
+          "text": "资源丰富"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-02",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 2 题",
+      "stem": "下列的赋值语句错误的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "x=y=2023"
+        },
+        {
+          "id": "B",
+          "text": "x,y=2022,2023"
+        },
+        {
+          "id": "C",
+          "text": "name=input( )"
+        },
+        {
+          "id": "D",
+          "text": "x+y=2023"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-03",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 3 题",
+      "stem": "不是 Python 语言关键字的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "int"
+        },
+        {
+          "id": "B",
+          "text": "else"
+        },
+        {
+          "id": "C",
+          "text": "try"
+        },
+        {
+          "id": "D",
+          "text": "while"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-04",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 4 题",
+      "stem": "print(80-5**2%6)应该输出( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "76"
+        },
+        {
+          "id": "B",
+          "text": "77"
+        },
+        {
+          "id": "C",
+          "text": "78"
+        },
+        {
+          "id": "D",
+          "text": "79"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-05",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 5 题",
+      "stem": "以下关于 Python 字符串的描述中，错误的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "字符串是用一对双引号\" \"或者单引号’ ’括起来的零个或者多个字符"
+        },
+        {
+          "id": "B",
+          "text": "字符串包括两种序号体系:正向递增和反向递减"
+        },
+        {
+          "id": "C",
+          "text": "字符串是字符的序列，可以按照单个字符或者字符片段进行索引"
+        },
+        {
+          "id": "D",
+          "text": "Python 字符串提供区间访问方式，采用 [N:M] 格式，表示字符串中从 N 到 M 的 (N-M+1)个字符"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-06",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 6 题",
+      "stem": "下列描述中，正确的选项是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "Python 中“==”和“=”没有区别"
+        },
+        {
+          "id": "B",
+          "text": "if 语句和 for 语句，都可以用 else"
+        },
+        {
+          "id": "C",
+          "text": "if 语句不支持嵌套使用"
+        },
+        {
+          "id": "D",
+          "text": "已知 x=7,那么赋值语句 x='abc' 是无法正常执行的"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-07",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 7 题",
+      "stem": "下列代码段运行结果为( ) for i in range(1,6): print(i,end='-')",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "1-2-3-4-5"
+        },
+        {
+          "id": "B",
+          "text": "1-2-3-4-5-"
+        },
+        {
+          "id": "C",
+          "text": "1-2-3-4-5-6"
+        },
+        {
+          "id": "D",
+          "text": "1-2-3-4-5-6-"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-08",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 8 题",
+      "stem": "下述程序段运行结果为( ) X = [5,8,2,7,4,6] print(sorted(X[0:4]))",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2,5,7,8]"
+        },
+        {
+          "id": "B",
+          "text": "[8,7,5,2]"
+        },
+        {
+          "id": "C",
+          "text": "[2,4,5,6]"
+        },
+        {
+          "id": "D",
+          "text": "[6,5,4,2] 共 3 页"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-09",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 9 题",
+      "stem": "下列关于元组的说法，错误的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "元组中的元素不能改变和删除"
+        },
+        {
+          "id": "B",
+          "text": "元组没有 append( )或 extend( )方法"
+        },
+        {
+          "id": "C",
+          "text": "用 sort()方法可对元组中的元素排序"
+        },
+        {
+          "id": "D",
+          "text": "元组可以充当列表元素"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-10",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 10 题",
+      "stem": "下列函数或方法中，可以求数值列表最大值的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "min()"
+        },
+        {
+          "id": "B",
+          "text": "reverse()"
+        },
+        {
+          "id": "C",
+          "text": "sort()"
+        },
+        {
+          "id": "D",
+          "text": "max()"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-11",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 11 题",
+      "stem": "以下可以创建一个字典的语句是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "dict1 = {[1,2,3]:\"李山\"}"
+        },
+        {
+          "id": "B",
+          "text": "dict2 = [ ]"
+        },
+        {
+          "id": "C",
+          "text": "dict3 = {\"张封\": 90 }"
+        },
+        {
+          "id": "D",
+          "text": "dict4 =( )"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-12",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 12 题",
+      "stem": "以下哪个类型不可以进行切片操作( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "字典"
+        },
+        {
+          "id": "B",
+          "text": "列表"
+        },
+        {
+          "id": "C",
+          "text": "元组"
+        },
+        {
+          "id": "D",
+          "text": "字符串"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-13",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 13 题",
+      "stem": "下列选项中，不能够访问字典元素操作方法的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "dicts.keys()"
+        },
+        {
+          "id": "B",
+          "text": "dicts.values()"
+        },
+        {
+          "id": "C",
+          "text": "dicts.pop()"
+        },
+        {
+          "id": "D",
+          "text": "dicts.items()"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-14",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 14 题",
+      "stem": "下面对函数的定义，错误的选项是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "def fun(a=2,b)"
+        },
+        {
+          "id": "B",
+          "text": "def fun(a,b)"
+        },
+        {
+          "id": "C",
+          "text": "def fun(*b)"
+        },
+        {
+          "id": "D",
+          "text": "def fun(**a)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-single_choice-15",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python I 单选第 15 题",
+      "stem": "异常处理中，如果 try 子句中发生了指定的异常，则执行( )子句部分进行异常的处理。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "try"
+        },
+        {
+          "id": "B",
+          "text": "except"
+        },
+        {
+          "id": "C",
+          "text": "else"
+        },
+        {
+          "id": "D",
+          "text": "Error"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-fill-blank-01",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "fill_blank",
+      "mode": "fill_blank",
+      "difficulty": "exam",
+      "title": "2023 Python I 填空第 1 题",
+      "stem": "Python 内置的集成开发环境简称___________，在此开发环境中，运行 Python 语言编写的 代码有两种常用的方式，分别为___________和___________。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先按空的数量拆分答案；如果有多个空，用逗号或空格隔开自己核对。"
+      ],
+      "answer": "参考答案：IDLE 交互式 文件式",
+      "options": [],
+      "correctAnswer": "IDLE 交互式 文件式",
+      "blankAnswers": [
+        "IDLE",
+        "交互式",
+        "文件式"
+      ],
+      "explanation": "本题来自原卷填空题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "fill-blank"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-fill-blank-02",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "fill_blank",
+      "mode": "fill_blank",
+      "difficulty": "exam",
+      "title": "2023 Python I 填空第 2 题",
+      "stem": "math 库中的函数不可以直接使用，需要用关键字__________引用后才可使用， math.pow(4,3)的结果为___________，int(math.sqrt(121))的结果为___________。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先按空的数量拆分答案；如果有多个空，用逗号或空格隔开自己核对。"
+      ],
+      "answer": "参考答案：import 64.0 11",
+      "options": [],
+      "correctAnswer": "import 64.0 11",
+      "blankAnswers": [
+        "import",
+        "64.0",
+        "11"
+      ],
+      "explanation": "本题来自原卷填空题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "fill-blank"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-fill-blank-03",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "fill_blank",
+      "mode": "fill_blank",
+      "difficulty": "exam",
+      "title": "2023 Python I 填空第 3 题",
+      "stem": "使用内置的___________函数可创建一个列表，___________函数可以获取列表的长度。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先按空的数量拆分答案；如果有多个空，用逗号或空格隔开自己核对。"
+      ],
+      "answer": "参考答案：list() len()",
+      "options": [],
+      "correctAnswer": "list() len()",
+      "blankAnswers": [
+        "list()",
+        "len()"
+      ],
+      "explanation": "本题来自原卷填空题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "fill-blank"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-fill-blank-04",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "fill_blank",
+      "mode": "fill_blank",
+      "difficulty": "exam",
+      "title": "2023 Python I 填空第 4 题",
+      "stem": "Python 中的集合除了支持数学中的集合运算之外，主要用来进行_________和_________。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先按空的数量拆分答案；如果有多个空，用逗号或空格隔开自己核对。"
+      ],
+      "answer": "参考答案：关系测试 消除重复元素",
+      "options": [],
+      "correctAnswer": "关系测试 消除重复元素",
+      "blankAnswers": [
+        "关系测试",
+        "消除重复元素"
+      ],
+      "explanation": "本题来自原卷填空题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "fill-blank"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-fill-blank-05",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "fill_blank",
+      "mode": "fill_blank",
+      "difficulty": "exam",
+      "title": "2023 Python I 填空第 5 题",
+      "stem": "在 Python 语言中，函数可以分为 4 类:____________、标准库函数、第三方库函数和 ___________。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先按空的数量拆分答案；如果有多个空，用逗号或空格隔开自己核对。"
+      ],
+      "answer": "参考答案：内置函数 用户自定义函数",
+      "options": [],
+      "correctAnswer": "内置函数 用户自定义函数",
+      "blankAnswers": [
+        "内置函数",
+        "用户自定义函数"
+      ],
+      "explanation": "本题来自原卷填空题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "fill-blank"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2023-fill-blank-06",
+      "course": "python1",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "fill_blank",
+      "mode": "fill_blank",
+      "difficulty": "exam",
+      "title": "2023 Python I 填空第 6 题",
+      "stem": "假设当前工作目录为 E:\\document\\myFile，在 python 中若执行了 import os 后，运行语 句 os.getcwd()的结果为___________；若要从 E:\\document\\myFile\\stu.txt 文件中读内 容，可以调用的三种读文件方法分别为:read( )、___________和___________。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先按空的数量拆分答案；如果有多个空，用逗号或空格隔开自己核对。"
+      ],
+      "answer": "参考答案：‘E:\\\\document\\\\myFile’ readline( ) readlines( )",
+      "options": [],
+      "correctAnswer": "‘E:\\\\document\\\\myFile’ readline( ) readlines( )",
+      "blankAnswers": [
+        "‘E:\\\\document\\\\myFile’",
+        "readline(",
+        ")",
+        "readlines(",
+        ")"
+      ],
+      "explanation": "本题来自原卷填空题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "fill-blank"
+      ],
+      "sourceIdHint": "python1/试卷/2023年《程序设计Python  I》B卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-01",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 1 题",
+      "stem": "Python 内置的集成开发工具是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "PyCharm"
+        },
+        {
+          "id": "B",
+          "text": "Eclipse"
+        },
+        {
+          "id": "C",
+          "text": "Spyder"
+        },
+        {
+          "id": "D",
+          "text": "IDLE"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-02",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 2 题",
+      "stem": "运行下面代码段，会出现下方的错误提示。产生错误可能的原因是( )。 >>>2W=float(input(\"请输入体重(KG):\")) SyntaxError: invalid syntax",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "2W 变量名长度太短"
+        },
+        {
+          "id": "B",
+          "text": "2W 变量名以数字开头"
+        },
+        {
+          "id": "C",
+          "text": "2W 变量数据类型有误，应将 float 改成 int"
+        },
+        {
+          "id": "D",
+          "text": "命令写法有误，应改成 float(input(\"请输入体重(KG):\"))=2W"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-03",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 3 题",
+      "stem": "在 Python 中，错误的赋值语句为( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "x+y=10"
+        },
+        {
+          "id": "B",
+          "text": "x=10"
+        },
+        {
+          "id": "C",
+          "text": "x=y=z=10"
+        },
+        {
+          "id": "D",
+          "text": "x,y=10,20"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-04",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 4 题",
+      "stem": "语句 x=input(\"请输入:\")执行时，如果从键盘输入 100 并按回车键，则 x 的值是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "100.0"
+        },
+        {
+          "id": "C",
+          "text": "1e2"
+        },
+        {
+          "id": "D",
+          "text": "'100'"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-05",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 5 题",
+      "stem": "运行下面程序段，如果显示的结果是:sum=30，则横线位置处正确的语句是( )。 a=10 b=20 sum=a+b ________________________",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "print(\"sum=\",sum)"
+        },
+        {
+          "id": "B",
+          "text": "print(sum)"
+        },
+        {
+          "id": "C",
+          "text": "print(\"sum=,30\")"
+        },
+        {
+          "id": "D",
+          "text": "print(sum=30)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-06",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 6 题",
+      "stem": "下列 Python 运算符中，优先级最高的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "+"
+        },
+        {
+          "id": "B",
+          "text": "*"
+        },
+        {
+          "id": "C",
+          "text": "/"
+        },
+        {
+          "id": "D",
+          "text": "( )"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-07",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 7 题",
+      "stem": "执行语句 print(100-26%5)，则其输出的结果是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "-30"
+        },
+        {
+          "id": "B",
+          "text": "94"
+        },
+        {
+          "id": "C",
+          "text": "99"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-08",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 8 题",
+      "stem": "下列方法中，可以将字符串中的字母全部转换为小写的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "upper()"
+        },
+        {
+          "id": "B",
+          "text": "lower()"
+        },
+        {
+          "id": "C",
+          "text": "title()"
+        },
+        {
+          "id": "D",
+          "text": "capitalize()"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-09",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 9 题",
+      "stem": "如果运行图 a 中的程序段，然后输入图 b 所示的数据，则输出结果为( )。 a=input(\"输入数字:\") >>>输入数字:11 b=input(\"输入数字:\") >>>输入数字:33 c=eval(a+b) d=eval(a)+eval(b) print(c,d) 图 a 图 b",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "1133 44"
+        },
+        {
+          "id": "B",
+          "text": "44 1133"
+        },
+        {
+          "id": "C",
+          "text": "44 44"
+        },
+        {
+          "id": "D",
+          "text": "1133 1133"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-10",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 10 题",
+      "stem": "如果 s=\" 坞城校区修德楼\"，可以输出\"坞城校区\"子串的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "s[7:11]"
+        },
+        {
+          "id": "B",
+          "text": "s[7:10]"
+        },
+        {
+          "id": "C",
+          "text": "s[6:9]"
+        },
+        {
+          "id": "D",
+          "text": "s[6:10]"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-11",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 11 题",
+      "stem": "Python 中，( )一旦创建就不可修改。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "列表"
+        },
+        {
+          "id": "B",
+          "text": "元组"
+        },
+        {
+          "id": "C",
+          "text": "字典"
+        },
+        {
+          "id": "D",
+          "text": "集合"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-12",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 12 题",
+      "stem": "执行下面程序段，屏幕能打印出( )颗星(*)。 for i in range(1,10,2): print(\"*\")",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-13",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 13 题",
+      "stem": "定义列表 d=[5,6,12,18,24,25]，如何只删除元素 25，则不可以使用的方法为( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "del d[-1]"
+        },
+        {
+          "id": "B",
+          "text": "d.pop()"
+        },
+        {
+          "id": "C",
+          "text": "d.remove(25)"
+        },
+        {
+          "id": "D",
+          "text": "d.clear()"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-14",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 14 题",
+      "stem": "在 Python 中，定义字典 d={‘北京’:’010’,’上海’:’020’,’太原’:’030’}， 如何访问值‘030’( )？",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "d[‘030’]"
+        },
+        {
+          "id": "B",
+          "text": "d[2]"
+        },
+        {
+          "id": "C",
+          "text": "d[3]"
+        },
+        {
+          "id": "D",
+          "text": "d[‘太原’]"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-single_choice-15",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 单选第 15 题",
+      "stem": "创建空集合的语句是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "s={}"
+        },
+        {
+          "id": "B",
+          "text": "s=()"
+        },
+        {
+          "id": "C",
+          "text": "s=[]"
+        },
+        {
+          "id": "D",
+          "text": "s=set()"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-true-false-01",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 判断第 1 题",
+      "stem": "Python 中，num 和 Num 表示相同的变量。( ) 第 2 页",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-true-false-02",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 判断第 2 题",
+      "stem": "注释主要用于解释程序代码，目的是提升代码的可读性。在 Python 程序中，单行注释以 “#”开头。注释部分不会被编译器略去，它也是计算机执行的内容。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-true-false-05",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 判断第 5 题",
+      "stem": "赋值语句是最基本的语句，它的作用是将表达式的值赋给变量，其格式:变量名=表达式。 如 x=3**3 是将 9 存储到 x 中。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2024-true-false-06",
+      "course": "python1",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python I 判断第 6 题",
+      "stem": "编程求解 n 的阶乘，可以用循环实现，但不能用递归思想实现。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python1/试卷/2023-2024学年第二学期《程序设计(Python) I》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-01",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 1 题",
+      "stem": "Python 解释器的提示符为( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": ">"
+        },
+        {
+          "id": "B",
+          "text": ">>"
+        },
+        {
+          "id": "C",
+          "text": ">>>"
+        },
+        {
+          "id": "D",
+          "text": "#"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-02",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 2 题",
+      "stem": "Python 内置的集成开发工具是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "IDE"
+        },
+        {
+          "id": "B",
+          "text": "IDLE"
+        },
+        {
+          "id": "C",
+          "text": "PythonWi"
+        },
+        {
+          "id": "D",
+          "text": "Pycharm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-03",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 3 题",
+      "stem": "下面代码的输出结果是( )。 print( 1 + 2 == 3 )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        },
+        {
+          "id": "C",
+          "text": "Yes"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-04",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 4 题",
+      "stem": "下列 Python 保留字中，不用于表示分支结构的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "if"
+        },
+        {
+          "id": "B",
+          "text": "elif"
+        },
+        {
+          "id": "C",
+          "text": "else"
+        },
+        {
+          "id": "D",
+          "text": "in"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-05",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 5 题",
+      "stem": "import math 表示( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "引入函数库"
+        },
+        {
+          "id": "B",
+          "text": "压缩模块"
+        },
+        {
+          "id": "C",
+          "text": "创建数学模块"
+        },
+        {
+          "id": "D",
+          "text": "创建一个 math 全局变量"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-06",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 6 题",
+      "stem": "以下 Python 赋值语句，不合法的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "x, y = y, x"
+        },
+        {
+          "id": "B",
+          "text": "x = y = 1"
+        },
+        {
+          "id": "C",
+          "text": "x = ( y = 1 )"
+        },
+        {
+          "id": "D",
+          "text": "x = 1; y = 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-07",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 7 题",
+      "stem": "以下( )是正确的字符串。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "'abc\"ab\""
+        },
+        {
+          "id": "B",
+          "text": "'abc\"ab'"
+        },
+        {
+          "id": "C",
+          "text": "\"abc\"ab\""
+        },
+        {
+          "id": "D",
+          "text": "\"\"\"abc\\nab'''"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-08",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 8 题",
+      "stem": "下列方法中，可以将字符串中的字母全部转换为大写的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "upper( )"
+        },
+        {
+          "id": "B",
+          "text": "lower( )"
+        },
+        {
+          "id": "C",
+          "text": "title( )"
+        },
+        {
+          "id": "D",
+          "text": "capitalize( )"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-09",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 9 题",
+      "stem": "关于字符串的说法中，下列描述错误的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "字符串是不可变数据类型"
+        },
+        {
+          "id": "B",
+          "text": "字符串可以使用单引号、双引号和三引号定义"
+        },
+        {
+          "id": "C",
+          "text": "转义字符\\r 表示回车换行"
+        },
+        {
+          "id": "D",
+          "text": "字符串可以用‘+’进行拼接"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-10",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 10 题",
+      "stem": "在语句 a=input(\"请输入:\")中，请问 a 的数据类型是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "布尔型"
+        },
+        {
+          "id": "B",
+          "text": "整型"
+        },
+        {
+          "id": "C",
+          "text": "浮点型"
+        },
+        {
+          "id": "D",
+          "text": "字符串类型 共 3 页"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-11",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 11 题",
+      "stem": "下列代码中，能正确计算出 8 整除 5 的语句是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "print(8/5)"
+        },
+        {
+          "id": "B",
+          "text": "print(8÷5)"
+        },
+        {
+          "id": "C",
+          "text": "print(8%5)"
+        },
+        {
+          "id": "D",
+          "text": "print(8//5)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-13",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 13 题",
+      "stem": "下列语句能正确从列表 lst=[\"萧峰\", \"张无忌\", \"杨过\", \"令狐冲\", \"段誉\"]中，删除掉“令狐 冲”的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "lst.pop(\"令狐冲\")"
+        },
+        {
+          "id": "B",
+          "text": "lst.del(“令狐冲”)"
+        },
+        {
+          "id": "C",
+          "text": "lst.remove(\"令狐冲\")"
+        },
+        {
+          "id": "D",
+          "text": "lst.clear(“令狐冲”)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-14",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 14 题",
+      "stem": "下列方法中，可以对元组排序的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "sort()"
+        },
+        {
+          "id": "B",
+          "text": "index()"
+        },
+        {
+          "id": "C",
+          "text": "appand()"
+        },
+        {
+          "id": "D",
+          "text": "以上三个方法都不能"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-single_choice-15",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 单选第 15 题",
+      "stem": "集合 S={1,2}，执行语句 S.add((2,3,4))后，S 的值是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "{1,2,3,4}"
+        },
+        {
+          "id": "B",
+          "text": "{1,2,(2,3,4)}"
+        },
+        {
+          "id": "C",
+          "text": "{1,3,4}"
+        },
+        {
+          "id": "D",
+          "text": "{1,2}"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-true-false-01",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 判断第 1 题",
+      "stem": "编译器比解释器生成执行代码的效率高。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：T（对）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "T",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-true-false-02",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 判断第 2 题",
+      "stem": "函数的位置参数有严格的位置关系。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：T（对）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "T",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-true-false-03",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 判断第 3 题",
+      "stem": "Python 语法认为条件 x<=y<=z 是合法的。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：T（对）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "T",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-true-false-04",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 判断第 4 题",
+      "stem": "列表和元组都支持使用双向索引访问其中的元素。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：T（对）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "T",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-true-false-05",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 判断第 5 题",
+      "stem": "变量名可以以数字开头。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-true-false-06",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 判断第 6 题",
+      "stem": "列表只能存储同一类型的数据。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python1-2025-true-false-07",
+      "course": "python1",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python I 判断第 7 题",
+      "stem": "s = {1, 1, 1, 1, 1, 3, 5, 67, 89} 上述语句定义了一个具有 9 个元素的集合。( ) 第 2 页",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python1/试卷/2024-2025学年第二学期《程序设计(Python) I》试题B",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-01",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 1 题",
+      "stem": "下列不属于 Python 应用领域的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "游戏开发"
+        },
+        {
+          "id": "B",
+          "text": "网络爬虫"
+        },
+        {
+          "id": "C",
+          "text": "人工智能"
+        },
+        {
+          "id": "D",
+          "text": "操作系统管理"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-02",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 2 题",
+      "stem": "下面 Python 语句错误的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "s=\"hello!\""
+        },
+        {
+          "id": "B",
+          "text": "3a=2022"
+        },
+        {
+          "id": "C",
+          "text": "a,b=100,200"
+        },
+        {
+          "id": "D",
+          "text": "year=2022+100"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-03",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 3 题",
+      "stem": "不是 Python 语言关键字(或保留字)的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "if"
+        },
+        {
+          "id": "B",
+          "text": "for"
+        },
+        {
+          "id": "C",
+          "text": "int"
+        },
+        {
+          "id": "D",
+          "text": "else"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-05",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 5 题",
+      "stem": "若 s=\" 迎泽校区\" ,可以输出“迎泽校区”子串的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "print(s[6:-1])"
+        },
+        {
+          "id": "B",
+          "text": "print(s[-4:-1])"
+        },
+        {
+          "id": "C",
+          "text": "print(s[6:9])"
+        },
+        {
+          "id": "D",
+          "text": "print(s[-4:])"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-06",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 6 题",
+      "stem": "下列描述错误的选项是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "\"ABCD\"==\"abcd\" 结果为 True"
+        },
+        {
+          "id": "B",
+          "text": "循环语句支持嵌套使用"
+        },
+        {
+          "id": "C",
+          "text": "for 循环一般用于实现遍历循环"
+        },
+        {
+          "id": "D",
+          "text": "选择结构中的部分语句不一定每次运行都会执行"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-07",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 7 题",
+      "stem": "已知 x=20，y=60，z=80，下列语句运行结果为 False 的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "x>10 and y<80"
+        },
+        {
+          "id": "B",
+          "text": "not( x>=20 )"
+        },
+        {
+          "id": "C",
+          "text": "x>=20 or z<=80"
+        },
+        {
+          "id": "D",
+          "text": "x<y<z"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-08",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 8 题",
+      "stem": "下述程序段运行结果为( ) s1 = [1,2,3] s2 = [2,4,6] print(s1+s2)",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "{1,2,3,2,4,6}"
+        },
+        {
+          "id": "B",
+          "text": "[3,6,9]"
+        },
+        {
+          "id": "C",
+          "text": "[1,2,3,2,4,6]"
+        },
+        {
+          "id": "D",
+          "text": "(1,2,3,4,6) 共 3 页"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-09",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 9 题",
+      "stem": "下列关于元组的说法，错误的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "用 sort()方法可对元组中的元素排序"
+        },
+        {
+          "id": "B",
+          "text": "元组中的元素不能改变和删除"
+        },
+        {
+          "id": "C",
+          "text": "元组没有 append( )方法"
+        },
+        {
+          "id": "D",
+          "text": "元组可以充当列表元素"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-10",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 10 题",
+      "stem": "下列函数或方法中，可以求数值列表最大值的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "max()"
+        },
+        {
+          "id": "B",
+          "text": "reverse()"
+        },
+        {
+          "id": "C",
+          "text": "sort()"
+        },
+        {
+          "id": "D",
+          "text": "min()"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-11",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 11 题",
+      "stem": "下列方法中，默认删除列表最后一个元素的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "del"
+        },
+        {
+          "id": "B",
+          "text": "pop()"
+        },
+        {
+          "id": "C",
+          "text": "remove()"
+        },
+        {
+          "id": "D",
+          "text": "extend()"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-12",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 12 题",
+      "stem": "可以使用 ( )来接收用户的键盘输入信息",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "input 命令"
+        },
+        {
+          "id": "B",
+          "text": "input()函数"
+        },
+        {
+          "id": "C",
+          "text": "int()函数"
+        },
+        {
+          "id": "D",
+          "text": "print()函数"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-13",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 13 题",
+      "stem": "以下哪个类型不可以进行切片操作( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "字典"
+        },
+        {
+          "id": "B",
+          "text": "列表"
+        },
+        {
+          "id": "C",
+          "text": "元组"
+        },
+        {
+          "id": "D",
+          "text": "字符串"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-14",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 14 题",
+      "stem": "下列关于 Python 函数说法错误的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "函数通过函数名调用"
+        },
+        {
+          "id": "B",
+          "text": "函数可以没有参数"
+        },
+        {
+          "id": "C",
+          "text": "函数可以减少重复的代码，使得程序更加模块化"
+        },
+        {
+          "id": "D",
+          "text": "每次调用函数提供参数的数据类型可以不同"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-single_choice-15",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 单选第 15 题",
+      "stem": "异常处理中，如果 try 子句执行未发生异常则执行( )子句部分。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "try"
+        },
+        {
+          "id": "B",
+          "text": "except"
+        },
+        {
+          "id": "C",
+          "text": "else"
+        },
+        {
+          "id": "D",
+          "text": "Error"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-multiple_choice-01",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "multiple_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 多选第 1 题",
+      "stem": "有关 Python 的叙述正确的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：BCD\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "Python 语言是编译型语言"
+        },
+        {
+          "id": "B",
+          "text": "Python 是开源的、免费的"
+        },
+        {
+          "id": "C",
+          "text": "Python 语言支持面向对象编程"
+        },
+        {
+          "id": "D",
+          "text": "Python 属于高级语言"
+        }
+      ],
+      "correctAnswer": "BCD",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-multiple_choice-02",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "multiple_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 多选第 2 题",
+      "stem": "下面对各种字符串方法描述正确的是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：BD\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "strip()方法用来删除字符串中所有空格"
+        },
+        {
+          "id": "B",
+          "text": "count()方法用来返回一个字符串在另一个字符串中出现的次数，若不存在则返回 0 第 2 页"
+        },
+        {
+          "id": "C",
+          "text": "find()方法检测字符串中是否包含子字符串，若包含子字符串则返回开始的索引值， 否则抛出一个异常"
+        },
+        {
+          "id": "D",
+          "text": "index()方法用来查找一个字符串在另一个字符串指定范围中首次出现的位置，若不存 在则抛出异常"
+        }
+      ],
+      "correctAnswer": "BD",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-multiple_choice-03",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "multiple_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 多选第 3 题",
+      "stem": "下面描述正确的选项是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：ACD\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "字典中的键必须是不可变的类型"
+        },
+        {
+          "id": "B",
+          "text": "列表可以作为字典的“键”"
+        },
+        {
+          "id": "C",
+          "text": "dict1 ={ }可以创建一个空字典"
+        },
+        {
+          "id": "D",
+          "text": "用 clear()方法可以清空字典条目"
+        }
+      ],
+      "correctAnswer": "ACD",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-multiple_choice-04",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "multiple_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 多选第 4 题",
+      "stem": "若tupA=(4,5,8)，下列合法的操作是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：ABD\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "list(tupA)"
+        },
+        {
+          "id": "B",
+          "text": "tupA*4"
+        },
+        {
+          "id": "C",
+          "text": "tup"
+        },
+        {
+          "id": "A",
+          "text": "extend(6)"
+        }
+      ],
+      "correctAnswer": "ABD",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-multiple_choice-05",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "multiple_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2023 Python II 多选第 5 题",
+      "stem": "下面对函数的定义，正确的选项是( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：ABCD\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "def fun(x,y)"
+        },
+        {
+          "id": "B",
+          "text": "def fun(**y)"
+        },
+        {
+          "id": "C",
+          "text": "def fun(*y)"
+        },
+        {
+          "id": "D",
+          "text": "def fun(x,y=2)"
+        }
+      ],
+      "correctAnswer": "ABCD",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-fill-blank-01",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "fill_blank",
+      "mode": "fill_blank",
+      "difficulty": "exam",
+      "title": "2023 Python II 填空第 1 题",
+      "stem": "在 Python 集成开发环境中，运行 Python 程序有两种常用的方式，分别为 和 文件式。文件式是指新建一个扩展名为 的文件，将代码写入文件中，然后可 使用快捷键 运行当前程序。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先按空的数量拆分答案；如果有多个空，用逗号或空格隔开自己核对。"
+      ],
+      "answer": "参考答案：交互式 .py F5",
+      "options": [],
+      "correctAnswer": "交互式 .py F5",
+      "blankAnswers": [
+        "交互式",
+        ".py",
+        "F5"
+      ],
+      "explanation": "本题来自原卷填空题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "fill-blank"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-fill-blank-02",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "fill_blank",
+      "mode": "fill_blank",
+      "difficulty": "exam",
+      "title": "2023 Python II 填空第 2 题",
+      "stem": "randint()函数不能直接使用，需要引入 库；sin()函数也不能直接使用，需 要引入 math 库,引入 math 库有两种方式，分别为: 和 。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先按空的数量拆分答案；如果有多个空，用逗号或空格隔开自己核对。"
+      ],
+      "answer": "参考答案：random import math from math import *",
+      "options": [],
+      "correctAnswer": "random import math from math import *",
+      "blankAnswers": [
+        "random",
+        "import",
+        "math",
+        "from",
+        "math",
+        "import",
+        "*"
+      ],
+      "explanation": "本题来自原卷填空题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "fill-blank"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-fill-blank-03",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "fill_blank",
+      "mode": "fill_blank",
+      "difficulty": "exam",
+      "title": "2023 Python II 填空第 3 题",
+      "stem": "程序的基本结构有三种:顺序结构、 和 。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先按空的数量拆分答案；如果有多个空，用逗号或空格隔开自己核对。"
+      ],
+      "answer": "参考答案：选择结构 循环结构",
+      "options": [],
+      "correctAnswer": "选择结构 循环结构",
+      "blankAnswers": [
+        "选择结构",
+        "循环结构"
+      ],
+      "explanation": "本题来自原卷填空题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "fill-blank"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-fill-blank-04",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "fill_blank",
+      "mode": "fill_blank",
+      "difficulty": "exam",
+      "title": "2023 Python II 填空第 4 题",
+      "stem": "在 Python 语言中， 中的键是唯一的， 中的元素值不允许重复。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先按空的数量拆分答案；如果有多个空，用逗号或空格隔开自己核对。"
+      ],
+      "answer": "参考答案：字典 集合",
+      "options": [],
+      "correctAnswer": "字典 集合",
+      "blankAnswers": [
+        "字典",
+        "集合"
+      ],
+      "explanation": "本题来自原卷填空题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "fill-blank"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-fill-blank-05",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "fill_blank",
+      "mode": "fill_blank",
+      "difficulty": "exam",
+      "title": "2023 Python II 填空第 5 题",
+      "stem": "在 Python 语言中，函数可以分为 4 类: 、标准库函数、第三方库函数 和 。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先按空的数量拆分答案；如果有多个空，用逗号或空格隔开自己核对。"
+      ],
+      "answer": "参考答案：内置函数 用户自定义函数",
+      "options": [],
+      "correctAnswer": "内置函数 用户自定义函数",
+      "blankAnswers": [
+        "内置函数",
+        "用户自定义函数"
+      ],
+      "explanation": "本题来自原卷填空题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "fill-blank"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2023-fill-blank-06",
+      "course": "python2",
+      "year": 2023,
+      "sourceType": "paper",
+      "questionType": "fill_blank",
+      "mode": "fill_blank",
+      "difficulty": "exam",
+      "title": "2023 Python II 填空第 6 题",
+      "stem": "在 python 中执行了 import os 语句后，查看当前工作目录的语句为 。 假设 C:\\Python 为当前工作目录，若要访问 C:\\Python\\file\\stu.txt 文件， 绝对路径字符串的表示方法为: 相对路径字符串的表示方法为: 共 3 页",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先按空的数量拆分答案；如果有多个空，用逗号或空格隔开自己核对。"
+      ],
+      "answer": "参考答案：os.getcwd() \"C:\\\\Python\\\\file\\\\stu.txt\" 或 r\"C:\\Python\\file\\stu.txt\" \"\\\\file\\\\stu.txt\" 或 r\"\\file\\stu.txt\"",
+      "options": [],
+      "correctAnswer": "os.getcwd() \"C:\\\\Python\\\\file\\\\stu.txt\" 或 r\"C:\\Python\\file\\stu.txt\" \"\\\\file\\\\stu.txt\" 或 r\"\\file\\stu.txt\"",
+      "blankAnswers": [
+        "os.getcwd()",
+        "\"C:\\\\Python\\\\file\\\\stu.txt\"",
+        "或",
+        "r\"C:\\Python\\file\\stu.txt\"",
+        "\"\\\\file\\\\stu.txt\"",
+        "或",
+        "r\"\\file\\stu.txt\""
+      ],
+      "explanation": "本题来自原卷填空题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "fill-blank"
+      ],
+      "sourceIdHint": "python2/试卷/2023年《程序设计Python II》A卷",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-01",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 1 题",
+      "stem": "下面不是 Python 特性的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "简单易学"
+        },
+        {
+          "id": "B",
+          "text": "可移植性好"
+        },
+        {
+          "id": "C",
+          "text": "资源丰富"
+        },
+        {
+          "id": "D",
+          "text": "是低级语言"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-02",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 2 题",
+      "stem": "Python 程序中，以( )开头的语句是注释语句，可以从任意位置开始书写。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "*"
+        },
+        {
+          "id": "B",
+          "text": "#"
+        },
+        {
+          "id": "C",
+          "text": "//"
+        },
+        {
+          "id": "D",
+          "text": "$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-03",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 3 题",
+      "stem": "下面( )可以作为 Python 的合法标识符。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "num-Eggs"
+        },
+        {
+          "id": "B",
+          "text": "2x"
+        },
+        {
+          "id": "C",
+          "text": "num Eggs"
+        },
+        {
+          "id": "D",
+          "text": "x2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-04",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 4 题",
+      "stem": "在 Python 中，错误的赋值语句为( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "a=b=c=10"
+        },
+        {
+          "id": "B",
+          "text": "x=100"
+        },
+        {
+          "id": "C",
+          "text": "x+y=10"
+        },
+        {
+          "id": "D",
+          "text": "a,b=100,200"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-05",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 5 题",
+      "stem": "在语句 a=input(\"请输入:\")中，请问 a 的数据类型是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "字符串类型"
+        },
+        {
+          "id": "B",
+          "text": "整型"
+        },
+        {
+          "id": "C",
+          "text": "浮点型"
+        },
+        {
+          "id": "D",
+          "text": "布尔型"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-06",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 6 题",
+      "stem": "已知变量标识了一些内容:a=\"修德,\"、b=\"博学,\"、c=\"求真\"、d=\"立信,\"，如果想通过 打印变量的方式打印出“修德，立信，博学，求真”这句话，以下能实现的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "print(a,c,b,d)"
+        },
+        {
+          "id": "B",
+          "text": "print(c,b,a,d)"
+        },
+        {
+          "id": "C",
+          "text": "print(a,d,b,c)"
+        },
+        {
+          "id": "D",
+          "text": "print(adbc)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-07",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 7 题",
+      "stem": "如果运行图 a 中的程序段，然后输入图 b 所示的数据，则输出结果为( )。 a=input(\"输入数字:\") >>>输入数字:11 b=input(\"输入数字:\") >>>输入数字:33 c=eval(a+b) d=eval(a)+eval(b) print(c,d) 图 a 图 b",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "1133 44"
+        },
+        {
+          "id": "B",
+          "text": "44 1133"
+        },
+        {
+          "id": "C",
+          "text": "44 44"
+        },
+        {
+          "id": "D",
+          "text": "1133 1133"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-08",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 8 题",
+      "stem": "下列代码中，能正确计算出 8 整除 5 的语句是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "print(8/5)"
+        },
+        {
+          "id": "B",
+          "text": "print(8÷5)"
+        },
+        {
+          "id": "C",
+          "text": "print(8%5)"
+        },
+        {
+          "id": "D",
+          "text": "print(8//5) 共 3 页"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-09",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 9 题",
+      "stem": "下列方法中，可以将字符串中的每个单词首字母变为大写的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "upper()"
+        },
+        {
+          "id": "B",
+          "text": "lower()"
+        },
+        {
+          "id": "C",
+          "text": "title()"
+        },
+        {
+          "id": "D",
+          "text": "capitalize()"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-10",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 10 题",
+      "stem": "中华人民共和国居民身份号码由 18 位数字组成，其中第 7～14 位表示出生年月日。如: 身份号码 330604201010210218 对应的出生日期是 2010 年 10 月 21 日。若用字符串 s 存储该 身份号码，( )表达式能提取出生日期。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "s[7:13]"
+        },
+        {
+          "id": "B",
+          "text": "s[7:14]"
+        },
+        {
+          "id": "C",
+          "text": "s[6:13]"
+        },
+        {
+          "id": "D",
+          "text": "s[6:14]"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-11",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 11 题",
+      "stem": "执行下面的程序短，输出结果是( )。 for i in range(2,5): print(i,end=’ ’)",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 2"
+        },
+        {
+          "id": "B",
+          "text": "2 3"
+        },
+        {
+          "id": "C",
+          "text": "2 3 4"
+        },
+        {
+          "id": "D",
+          "text": "2 3 4 5"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-12",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 12 题",
+      "stem": "在 Python 中，定义列表 d=[5,6,12,18,24,25]，如何访问元素 24( )？",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "d(4)"
+        },
+        {
+          "id": "B",
+          "text": "d(5)"
+        },
+        {
+          "id": "C",
+          "text": "d[5]"
+        },
+        {
+          "id": "D",
+          "text": "d[4]"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-13",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 13 题",
+      "stem": "对于列表 ls 的操作，以下选项中描述错误的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "ls.append(x):在 ls 最后增加一个元素"
+        },
+        {
+          "id": "B",
+          "text": "ls.copy():生成一个新列表，复制 ls 的所有元素"
+        },
+        {
+          "id": "C",
+          "text": "ls.insert(0,x):列表 ls 在指定位置增加一个元素"
+        },
+        {
+          "id": "D",
+          "text": "ls.clear():删除 ls 最后一个元素"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-14",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 14 题",
+      "stem": "在 Python 中，定义字典 d={‘张三’:’010’,’李四’:’020’,’王五’:’030’}， 如何访问值‘030’( )？",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "d[‘030’]"
+        },
+        {
+          "id": "B",
+          "text": "d[2]"
+        },
+        {
+          "id": "C",
+          "text": "d[3]"
+        },
+        {
+          "id": "D",
+          "text": "d[‘王五’]"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-single_choice-15",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 单选第 15 题",
+      "stem": "下列说法正确的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "用 sort()方法可对字典进行排序"
+        },
+        {
+          "id": "B",
+          "text": "用 sort()方法可对集合进行排序"
+        },
+        {
+          "id": "C",
+          "text": "用 sort()方法可对元组进行排序"
+        },
+        {
+          "id": "D",
+          "text": "用 sort()方法可对列表进行排序"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-true-false-02",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 判断第 2 题",
+      "stem": "Python 是动态类型语言，变量需要提前显式地声明数据类型。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-true-false-03",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 判断第 3 题",
+      "stem": "Python 程序中，“=”和数学上的“=”是一回事。( ) 第 2 页",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2024-true-false-05",
+      "course": "python2",
+      "year": 2024,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2024 Python II 判断第 5 题",
+      "stem": "在 Python 中，while 循环是固定循环次数的。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python2/试卷/2023-2024学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-01",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 1 题",
+      "stem": "Python 源程序文件的扩展名是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "pt"
+        },
+        {
+          "id": "B",
+          "text": "pyt"
+        },
+        {
+          "id": "C",
+          "text": "py"
+        },
+        {
+          "id": "D",
+          "text": "python"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-02",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 2 题",
+      "stem": "Python 语言提供的 3 种基本数字类型是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "整数类型、浮点数类型、复数类型"
+        },
+        {
+          "id": "B",
+          "text": "整数类型、二进制类型、浮点数类型"
+        },
+        {
+          "id": "C",
+          "text": "整数类型、二进制类型、复数类型"
+        },
+        {
+          "id": "D",
+          "text": "整数类型、十进制类型、浮点数类型"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-03",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 3 题",
+      "stem": "for x in range(3): 表示 x 的值取( )的整数。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "x >= 0 and x <= 3"
+        },
+        {
+          "id": "B",
+          "text": "x > 0 and x < 3"
+        },
+        {
+          "id": "C",
+          "text": "x >= 0 and x < 3"
+        },
+        {
+          "id": "D",
+          "text": "x > 0 and x <= 3"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-04",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 4 题",
+      "stem": "利用 print()格式输出，能够控制浮点数的小数点后两位输出的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "{ .2}"
+        },
+        {
+          "id": "B",
+          "text": "{ :.2}"
+        },
+        {
+          "id": "C",
+          "text": "{ .2f}"
+        },
+        {
+          "id": "D",
+          "text": "{ :.2f}"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-06",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 6 题",
+      "stem": "在 Python 中，错误的赋值语句为( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "x + y = 10"
+        },
+        {
+          "id": "B",
+          "text": "x = 10"
+        },
+        {
+          "id": "C",
+          "text": "x = y = z = 10"
+        },
+        {
+          "id": "D",
+          "text": "x, y = 10, 20"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-07",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 7 题",
+      "stem": "下列 Python 运算符中，优先级最高的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "+"
+        },
+        {
+          "id": "B",
+          "text": "*"
+        },
+        {
+          "id": "C",
+          "text": "/"
+        },
+        {
+          "id": "D",
+          "text": "( )"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-08",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 8 题",
+      "stem": "如果 s=\"山西财大坞城校区修德楼\"，可以输出\"坞城校区\"子串的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "s[5:9]"
+        },
+        {
+          "id": "B",
+          "text": "s[5:8]"
+        },
+        {
+          "id": "C",
+          "text": "s[4:7]"
+        },
+        {
+          "id": "D",
+          "text": "s[4:8] 共 3 页"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-09",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 9 题",
+      "stem": "Python 中，( )一旦创建就不可修改。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "列表"
+        },
+        {
+          "id": "B",
+          "text": "元组"
+        },
+        {
+          "id": "C",
+          "text": "字典"
+        },
+        {
+          "id": "D",
+          "text": "集合"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-10",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 10 题",
+      "stem": "创建空集合的语句是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：D\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "s = {}"
+        },
+        {
+          "id": "B",
+          "text": "s = ()"
+        },
+        {
+          "id": "C",
+          "text": "s = []"
+        },
+        {
+          "id": "D",
+          "text": "s = set()"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-11",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 11 题",
+      "stem": "对于字典 dic={'abc':123, 'def':456, 'ghi':789}，len(dic)的结果是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-12",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 12 题",
+      "stem": "下列方法中，可以对列表元素排序的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "pop()"
+        },
+        {
+          "id": "B",
+          "text": "list()"
+        },
+        {
+          "id": "C",
+          "text": "sorted()"
+        },
+        {
+          "id": "D",
+          "text": "max()"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-13",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 13 题",
+      "stem": "下列关于元组的说法，错误的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：C\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "元组中的元素不能改变和删除"
+        },
+        {
+          "id": "B",
+          "text": "元组没有 append()或 extend()方法"
+        },
+        {
+          "id": "C",
+          "text": "用 sort()方法可对元组中的元素排序"
+        },
+        {
+          "id": "D",
+          "text": "元组在定义时所有元素放在一对圆括号“()”中"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-14",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 14 题",
+      "stem": "关于字符串下列说法错误的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：B\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "字符应该视为长度为 1 的字符串"
+        },
+        {
+          "id": "B",
+          "text": "字符串以\\0 标志字符串的结束"
+        },
+        {
+          "id": "C",
+          "text": "既可以用单引号，也可以用双引号创建字符串"
+        },
+        {
+          "id": "D",
+          "text": "在三引号字符串中可以包含换行回车等特殊字符"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-single_choice-15",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "single_choice",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 单选第 15 题",
+      "stem": "下列 Python 语句正确的是( )。",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "先排除明显不符合 Python 语法或概念的选项，再看细节。"
+      ],
+      "answer": "正确答案：A\n\n解析：本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "options": [
+        {
+          "id": "A",
+          "text": "min = x if x < y else y"
+        },
+        {
+          "id": "B",
+          "text": "max = x > y ? x : y"
+        },
+        {
+          "id": "C",
+          "text": "if (x > y) print x"
+        },
+        {
+          "id": "D",
+          "text": "if (x > y) print( x)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "本题来自原卷客观题，答案来自对应评分参照。请结合教材知识点复核。",
+      "concepts": [
+        "exam-objective",
+        "choice"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-true-false-01",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 判断第 1 题",
+      "stem": "Python 语言的运行方式主要有交互式和文件式两种。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：T（对）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "T",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-true-false-02",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 判断第 2 题",
+      "stem": "编写 Python 语言源程序可以使用 Windows 下的记事本作为编辑器。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：T（对）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "T",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-true-false-03",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 判断第 3 题",
+      "stem": "注释主要用于解释程序代码，目的是提升代码的可读性。在 Python 程序中，单行注释以 第 2 页 “#”开头。注释部分不会被编译器略去，它也是计算机执行的内容。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-true-false-04",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 判断第 4 题",
+      "stem": "赋值语句是最基本的语句，它的作用是将表达式的值赋给变量，其格式:变量名=表达式。 如 x = 3**3 是将 9 存储到 x 中。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-true-false-05",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 判断第 5 题",
+      "stem": "函数在定义完成后会立刻执行。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：F（错）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "F",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-true-false-06",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 判断第 6 题",
+      "stem": "创建只包含一个元素的元组时，必须在元素后面加一个逗号，例如(3,)。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：T（对）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "T",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    },
+    {
+      "id": "exam-python2-2025-true-false-07",
+      "course": "python2",
+      "year": 2025,
+      "sourceType": "paper",
+      "questionType": "true_false",
+      "mode": "theory",
+      "difficulty": "exam",
+      "title": "2025 Python II 判断第 7 题",
+      "stem": "Python 集合中的元素可以是元组。( )",
+      "starterCode": "",
+      "sampleTests": [],
+      "hiddenTests": [],
+      "hints": [
+        "判断题先找绝对化表述，再回忆 Python 语法规则是否允许。"
+      ],
+      "answer": "正确答案：T（对）\n\n解析：本题来自原卷判断题，答案来自对应评分参照。",
+      "options": [
+        {
+          "id": "T",
+          "text": "对"
+        },
+        {
+          "id": "F",
+          "text": "错"
+        }
+      ],
+      "correctAnswer": "T",
+      "explanation": "本题来自原卷判断题，答案来自对应评分参照。",
+      "concepts": [
+        "exam-objective",
+        "true-false"
+      ],
+      "sourceIdHint": "python2/试卷/2024-2025学年第二学期《程序设计(Python) II》试题A",
+      "sourceOrigin": "exam"
+    }
+  ]
+}
