@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=1600, initial-scale=1">
+    <title>Python Exam Practice hero</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        font-family: Inter, "Segoe UI", Arial, sans-serif;
+      }
+
+      * { box-sizing: border-box; }
+
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+        width: 100%;
+      }
+
+      body {
+        background:
+          radial-gradient(circle at 8% 8%, rgba(255, 211, 67, 0.24), transparent 28%),
+          radial-gradient(circle at 86% 26%, rgba(55, 118, 171, 0.62), transparent 32%),
+          #07171d;
+        color: #f4fbff;
+      }
+
+      .canvas {
+        display: grid;
+        grid-template-columns: 610px 1fr;
+        height: 720px;
+        isolation: isolate;
+        overflow: hidden;
+        padding: 76px 72px;
+        position: relative;
+        width: 1600px;
+      }
+
+      .grid {
+        background-image:
+          linear-gradient(rgba(109, 196, 201, 0.08) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(109, 196, 201, 0.08) 1px, transparent 1px);
+        background-size: 32px 32px;
+        inset: 0;
+        mask-image: linear-gradient(90deg, black, transparent 76%);
+        position: absolute;
+        z-index: -1;
+      }
+
+      .copy {
+        align-self: center;
+        max-width: 580px;
+        z-index: 2;
+      }
+
+      .kicker {
+        color: #ffd343;
+        font-size: 20px;
+        font-weight: 800;
+        letter-spacing: 0.19em;
+        margin: 0 0 28px;
+      }
+
+      h1 {
+        font-size: 72px;
+        letter-spacing: -0.055em;
+        line-height: 0.95;
+        margin: 0;
+      }
+
+      .count {
+        color: #bce7ff;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 1.25;
+        margin: 34px 0 18px;
+      }
+
+      .features {
+        color: #a9c5ce;
+        font-size: 19px;
+        line-height: 1.5;
+        margin: 0;
+      }
+
+      .python-mark {
+        display: flex;
+        gap: 8px;
+        margin-top: 40px;
+      }
+
+      .python-mark span {
+        border-radius: 999px;
+        display: block;
+        height: 10px;
+        width: 74px;
+      }
+
+      .python-mark span:first-child { background: #3776ab; }
+      .python-mark span:last-child { background: #ffd343; }
+
+      .product {
+        align-self: center;
+        filter: drop-shadow(0 34px 54px rgba(0, 0, 0, 0.52));
+        height: 570px;
+        margin-left: 20px;
+        overflow: hidden;
+        position: relative;
+        transform: perspective(1400px) rotateY(-7deg) rotateX(2deg);
+        width: 810px;
+      }
+
+      .window {
+        background: #061317;
+        border: 1px solid rgba(140, 232, 224, 0.34);
+        border-radius: 22px;
+        height: 100%;
+        overflow: hidden;
+        position: relative;
+      }
+
+      .chrome {
+        align-items: center;
+        background: #0b252a;
+        border-bottom: 1px solid rgba(140, 232, 224, 0.18);
+        display: flex;
+        gap: 9px;
+        height: 44px;
+        padding: 0 18px;
+      }
+
+      .chrome span {
+        background: rgba(255, 255, 255, 0.28);
+        border-radius: 50%;
+        height: 9px;
+        width: 9px;
+      }
+
+      .chrome span:nth-child(1) { background: #ffd343; }
+      .chrome span:nth-child(2) { background: #3776ab; }
+
+      .window img {
+        display: block;
+        height: calc(100% - 44px);
+        object-fit: cover;
+        object-position: top left;
+        width: 100%;
+      }
+
+      .question-chip {
+        background: #ffd343;
+        border-radius: 999px;
+        bottom: 24px;
+        color: #102026;
+        font-size: 18px;
+        font-weight: 800;
+        padding: 13px 20px;
+        position: absolute;
+        right: 24px;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="canvas">
+      <div class="grid"></div>
+      <section class="copy">
+        <p class="kicker">PYTHON EXAM PRACTICE</p>
+        <h1>Practice with<br>real feedback.</h1>
+        <p class="count">151 questions. One browser tab.</p>
+        <p class="features">Objective questions · Code exercises · Progress tracking.</p>
+        <div class="python-mark" aria-hidden="true"><span></span><span></span></div>
+      </section>
+      <section class="product" aria-label="Product screenshot">
+        <div class="window">
+          <div class="chrome"><span></span><span></span><span></span></div>
+          <img src="./screenshots/question.png" alt="Python Exam Practice interface">
+          <div class="question-chip">151 questions</div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
